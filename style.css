@@ -1,0 +1,16 @@
+/*
+Style sheet file
+*/
+
+#intro-para .search_item {
+  background-color: #fff;
+  color: #777;
+  text-decoration: none;
+  text-align: left;
+  display: block;
+  padding: 10px 26px;
+  width: 100%;
+  opacity: 0.95;
+  border: none;
+  cursor: pointer;
+}
